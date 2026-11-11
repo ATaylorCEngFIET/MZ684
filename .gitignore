@@ -1,0 +1,14 @@
+# Vivado build output
+vivado/
+vivado_sim/
+*.jou
+*.log
+*.str
+.Xil/
+xsim.dir/
+*.wdb
+*.pb
+*.rpx
+
+# AMD IP example file (regenerate locally; see README)
+rtl/sem_core_cfg.v
